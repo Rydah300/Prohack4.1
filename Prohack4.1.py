@@ -115,7 +115,7 @@ def chk():
       pass 
     else: 
       print("\033[0;96m YOUR ID IS NOT ACTIVE COPY👆 AND SEND ME MESSAGE ON Whatsapp \033[0;91m#NOT FREE!!!") 
-      os.system('xdg-open  https://wa.me/+2349017624430?text=*Hello*%2C%20*Okenwa*%20*i*%20*want*%20*to*%20*buy*%20*your*%20*command*%20*apk*%20*UPDATED*')
+      os.system('xdg-open  https://wa.me/+2349025196405?text=*Hello*%2C%20*Rydah Tm*%20*i*%20*want*%20*to*%20*buy*%20*your*%20*command*%20*apk*%20*UPDATED*')
       time.sleep(1) 
       sys.exit() 
   except: 
